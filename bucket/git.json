@@ -7,7 +7,7 @@
   "architecture": {
       "64bit": {
           "url": "https://github.com/git-for-windows/git/releases/download/v2.39.0.windows.1/Git-2.39.0-64-bit.tar.bz2",
-          "hash": "8ca31e8474048b48b813ebdf95f288d58f253717d071d11785cc23f37dc6a396"
+          "hash": "ed78c21d89281d91fb1282043c3b618350e8ff721947ad01678356126b0447f3"
       },
       "32bit": {
           "url": "https://github.com/git-for-windows/git/releases/download/v2.39.0.windows.1/PortableGit-2.39.0-32-bit.7z.exe#/dl.7z",
