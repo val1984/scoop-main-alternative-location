@@ -10,6 +10,7 @@ You should navigate to the [bucket/](bucket) folder, click on the package manife
 scoop install https://github.com/val1984/scoop-main-alternative-location/raw/main/bucket/7zip.json
 scoop install https://github.com/val1984/scoop-main-alternative-location/raw/main/bucket/git.json
 scoop install https://github.com/val1984/scoop-main-alternative-location/raw/main/bucket/notable.json
+scoop install https://github.com/val1984/scoop-main-alternative-location/raw/main/bucket/wslgit.json
 ```
 
 These packages auto-update with Excavator GitHub action and will be displayed on `scoop status` when an update is available.
