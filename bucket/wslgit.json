@@ -12,7 +12,7 @@
             "hash": "8a1840c29bbd7b0ebabb70d0965546fe228d1abf0e9101746b5841ca3c7928b1"
         }
     },
-    "bin": "wslgit.exe",
+    "bin": "wslgit/cmd/wslgit.exe",
     "checkver": "github",
     "autoupdate": {
         "architecture": {
