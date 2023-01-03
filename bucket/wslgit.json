@@ -9,7 +9,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/andy-5/wslgit/releases/download/v1.2.0/wslgit.zip",
-            "hash": "4e14c8eef330b28b6f55b23c14e1ad9268a49dd4cadb0ffc93cf02cd357d0d1a"
+            "hash": "8a1840c29bbd7b0ebabb70d0965546fe228d1abf0e9101746b5841ca3c7928b1"
         }
     },
     "bin": "wslgit.exe",
