@@ -59,7 +59,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://www.7-zip.org/a/7z$cleanVersion-x64.msi"
+                "url": "https://sourceforge.net/projects/sevenzip/files/7-Zip/$version/7z$cleanVersion-x64.msi/download#dl.msi"
             },
             "32bit": {
                 "url": "https://www.7-zip.org/a/7z$cleanVersion.msi"
