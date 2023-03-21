@@ -5,7 +5,7 @@
 Purpose of this bucket
 ----------------------
 
-This bucket contains very few manifests and is not intended to be used as a regular bucket. If `scoop` is working properly for you, you don't to make use of any of the manifests hosted on this bucket.
+This bucket contains very few manifests and is not intended to be used as a regular bucket. If `scoop` is working properly for you, you shouldn't use of any of the manifests hosted on this bucket.
 
 Theses manifests contain alternate download locations from the official mirrors to try to work around inconsistent corporate blocking rules.
 
