@@ -9,7 +9,7 @@ This bucket contains very few manifests and is not intended to be used as a regu
 
 Theses manifests contain alternate download locations from the official mirrors to try to work around inconsistent corporate blocking rules.
 
-These get auto-updated with Excavator GitHub action and will be displayed on `scoop status` whenever an update is available.
+These get auto-updated with [Excavator GitHub action](https://github.com/val1984/scoop-main-alternative-location/actions/workflows/excavator.yml) and will be displayed on `scoop status` whenever an update is available.
 
 How do I install these manifests?
 ---------------------------------
