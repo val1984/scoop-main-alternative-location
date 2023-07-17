@@ -17,6 +17,7 @@ How do I install these manifests?
 You should navigate to the [bucket/](bucket) folder, click on the package manifest you want and copy the raw link to use with `scoop install`:
 ```
 scoop install https://github.com/val1984/scoop-main-alternative-location/raw/main/bucket/7zip.json
+scoop install https://github.com/val1984/scoop-main-alternative-location/raw/main/bucket/draw.io.json
 scoop install https://github.com/val1984/scoop-main-alternative-location/raw/main/bucket/git.json
 scoop install https://github.com/val1984/scoop-main-alternative-location/raw/main/bucket/notable.json
 scoop install https://github.com/val1984/scoop-main-alternative-location/raw/main/bucket/wslgit.json
