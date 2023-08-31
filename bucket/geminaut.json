@@ -8,7 +8,8 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://github.com/val1984/scoop-helper/raw/main/GemiNaut_v0.8.13.msi.xyz#dl.msi"
+      "url": "https://github.com/val1984/scoop-helper/raw/main/GemiNaut_v0.8.13.msi.xyz#dl.msi",
+      "hash": "sha256:8e772a22255745d8033f38751898ff7d09f1e2575eea7d7368272cb7246666f8"
     }
   },
   "bin": "GemiNaut.exe",
