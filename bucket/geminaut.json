@@ -1,0 +1,16 @@
+{
+  "version": "0.8.13",
+  "description": "GemiNaut is a user friendly GUI client for the Gemini protocol",
+  "homepage": "https://github.com/notable/notable",
+  "license": {
+    "identifier": "GPLv3",
+    "url": "https://github.com/LukeEmmet/GemiNaut/blob/master/LICENSE.txt"
+  },
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/val1984/scoop-helper/raw/main/GemiNaut_v0.8.13.msi.xyz#dl.msi"
+    }
+  },
+  "bin": "GemiNaut.exe",
+  "shortcuts": [["GemiNaut.exe", "GemiNaut"]]
+}
