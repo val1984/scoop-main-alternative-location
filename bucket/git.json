@@ -1,17 +1,17 @@
 {
-    "version": "2.46.2.windows.1",
+    "version": "2.47.0.windows.1",
     "description": "Distributed version control system",
     "homepage": "https://gitforwindows.org",
     "license": "GPL-2.0-only",
     "notes": "Set Git Credential Manager Core by running: \"git config --global credential.helper manager-core\"",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/git-for-windows/git/releases/download/v2.46.2.windows.1/Git-2.46.2-64-bit.tar.bz2",
-            "hash": "f05cf325a8bfaad6da2411e03065b5a4f2a1a69b9d1f9a258db1404524613610"
+            "url": "https://github.com/git-for-windows/git/releases/download/v2.47.0.windows.1/Git-2.47.0-64-bit.tar.bz2",
+            "hash": "63d07aa9593be64e0e2510f69b14beac85e5fb6d3dc66fc0a7e17b8dea0ccfe0"
         },
         "32bit": {
-            "url": "https://github.com/git-for-windows/git/releases/download/v2.46.2.windows.1/PortableGit-2.46.2-32-bit.7z.exe#/dl.7z",
-            "hash": "7351e28f498010f0aa2fd63abbd704698db38cf6f881e2417fb3d73e5a7e6f87"
+            "url": "https://github.com/git-for-windows/git/releases/download/v2.47.0.windows.1/PortableGit-2.47.0-32-bit.7z.exe#/dl.7z",
+            "hash": "b2def285b907ce1d47abd2df8df83df629b768defe08c1fcd4ad91582fc6606b"
         }
     },
     "bin": [
