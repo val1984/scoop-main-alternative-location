@@ -6,7 +6,7 @@
     "notes": "Add 7-Zip as a context menu option by running: \"$dir\\install-context.reg\"",
     "architecture": {
         "64bit": {
-            "url": "https://sourceforge.net/projects/sevenzip/files/7-Zip/24.09/7z2409-x64.msi/download#dl.msi",
+            "url": "https://github.com/ip7z/7zip/releases/download/24.09/7z2409-x64.msi",
             "hash": "ec6af1ea0367d16dde6639a89a080a524cebc4d4bedfe00ed0cac4b865a918d8",
             "extract_dir": "Files\\7-Zip"
         },
@@ -59,7 +59,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://sourceforge.net/projects/sevenzip/files/7-Zip/$version/7z$cleanVersion-x64.msi/download#dl.msi"
+                "url": "https://github.com/ip7z/7zip/releases/download/$version/7z$cleanVersion-x64.msi"
             },
             "32bit": {
                 "url": "https://www.7-zip.org/a/7z$cleanVersion.msi"
