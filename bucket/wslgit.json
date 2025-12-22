@@ -1,5 +1,5 @@
 {
-    "version": "1.2.0",
+    "version": "1.3.0",
     "description": "A small executable that forwards all arguments to git running inside Bash on Windows/Windows Subsystem for Linux (WSL)",
     "homepage": "https://github.com/andy-5/wslgit",
     "license": "MIT",
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/andy-5/wslgit/releases/download/v1.2.0/wslgit.zip#dl.7z",
-            "hash": "8a1840c29bbd7b0ebabb70d0965546fe228d1abf0e9101746b5841ca3c7928b1"
+            "url": "https://github.com/andy-5/wslgit/releases/download/v1.3.0/wslgit.zip#dl.7z",
+            "hash": "7c9eba9ee03b2bd0ae702031de65b335ab3040a5ba51dd3323ee43ef5e50b3f2"
         }
     },
     "bin": "wslgit/cmd/wslgit.exe",
